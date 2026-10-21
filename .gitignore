@@ -1,0 +1,7 @@
+*.exe
+*.dll
+*.zip
+*.pdb
+*.obj
+source/
+build/

@@ -1,0 +1,43 @@
+SV4RUS 1.0 — authorship and third-party notices
+
+Russian localization created by GPT-6 Astra (OpenAI) in Codex.
+Independent SV4RUS contributions are released under MIT No Attribution
+(MIT-0); see LICENSE.txt. This includes the original localization module,
+installer, newly written generator texts and publication materials, only
+to the extent they are independently licensable and copyright applies.
+Use, modification and redistribution, including commercial use, are allowed
+without an attribution requirement. This release does not include the
+localization project's source code.
+
+The MIT-0 grant does NOT relicense the original game, translated/adapted
+game content, game artwork, screenshots of the game, or third-party
+components. Their original rights and licenses continue to apply.
+
+Original game: Scavenger SV-4, (c) 2018 Deric Ruhl / HoroArch.
+Game code and artwork remain the property of their original authors.
+This unofficial localization requires the separately installed game.
+Executable patches are applied locally to the supported Steam files;
+the game is not included as a standalone copy. No endorsement is implied.
+
+SV4 Terminal is derived from Terminus Font 4.49, by Dimitar Zhekov,
+under the SIL Open Font License 1.1. Modified atlas name: SV4 Terminal.
+See Licenses/SV4-Terminal-OFL.txt and SV4-Terminal-NOTICE.txt in the game
+and in the ZIP package. https://terminus-font.sourceforge.net/
+
+Manual fonts: DejaVu 2.37. See Licenses/Manual-DejaVu-LICENSE.txt.
+https://dejavu-fonts.github.io/
+
+UPX 5.2.1 is an unmodified, separate executable used only to unpack the
+locally installed original Scavenger.exe. UPX is free software under the
+GNU General Public License with the UPX special exception. Its complete
+license, copyright notices and corresponding source archive are bundled
+under ThirdParty/UPX and saved in the game's SV4RUS folder by the installer.
+This third-party archive is not the source code of the localization.
+https://github.com/upx/upx/releases/tag/v5.2.1
+Source archive: upx-5.2.1-src.tar.xz
+SHA-256: a7d457be4ef942e46844ee8f301206b111394cbcbde3599747a6904c54ff116b
+No UPX code is linked into the installer or translation module.
+
+Localized raster fragments and the publication cover were generated with
+OpenAI ImageGen. Localized fragments were composited into the game artwork;
+the underlying game artwork retains its original rights.
