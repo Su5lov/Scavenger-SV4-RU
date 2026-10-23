@@ -1,4 +1,4 @@
-SV4RUS 1.0.1 - authorship and third-party notices
+SV4RUS 1.0.2 - authorship and third-party notices
 
 Russian localization created by GPT-6 Astra (OpenAI) in Codex.
 Independent SV4RUS contributions are released under MIT No Attribution
